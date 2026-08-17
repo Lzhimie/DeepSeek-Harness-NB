@@ -71,4 +71,4 @@ node test-core.mjs
 
 ## 许可证
 
-本项目扩展部分代码按 [MIT License](LICENSE) 发布；DeepSeek Harness 主程序与社区插件的版权归各自作者所有。
+本项目扩展部分代码按 [MIT License](LICENSE) 发布
