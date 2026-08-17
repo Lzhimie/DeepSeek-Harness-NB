@@ -1,5 +1,11 @@
 # DeepSeek Harness NB
 
+## 下载
+
+- **[下载 ZIP 便携版（263 MB）](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases/latest/download/DeepSeek-Harness-Portable-0.1.0.zip)**：解压后运行 `启动.bat`。
+- **[下载 EXE 安装版（222 MB）](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases/latest/download/DeepSeek-Harness-Setup-0.1.0.exe)**：免管理员安装，安装后通过桌面快捷方式启动。
+- [查看所有版本与更新日志](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases)
+
 为 **DeepSeek Harness** 桌面端提供社区插件生态与一键发行包构建工具的扩展项目。
 
 > ⚠️ 说明：DeepSeek Harness 主程序本体（`DeepSeek Harness.exe`、`resources/app.asar`、`resources/host`）是第三方闭源 Electron 应用，**不在本仓库提供**。本仓库包含的是配套的**社区插件中心扩展源码**与**发行包构建工具**，以及发行包（ZIP 便携版 / EXE 安装程序）的构建方法。
