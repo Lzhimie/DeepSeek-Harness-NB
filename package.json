@@ -1,0 +1,33 @@
+{
+  "name": "dsh-community-plugins",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness 社区插件中心：对接 GitHub dsh-plugin 话题社区，侧边栏一键浏览/安装/卸载社区插件（镜像加速）",
+  "type": "module",
+  "main": "lib/index.js",
+  "types": "lib/types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./lib/types/index.d.ts",
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "types": "./lib/types/client/index.d.ts",
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "platform": "web",
+      "inject": [],
+      "immediately": false
+    }
+  },
+  "files": [
+    "lib/index.js",
+    "lib/core.js",
+    "lib/client.js",
+    "lib/types/**/*.d.ts"
+  ],
+  "license": "MIT"
+}
