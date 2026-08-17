@@ -1,4 +1,23 @@
 # DeepSeek Harness NB
+<div align="center">
+
+# 🚀 国内 Token 中转站
+
+## 高速稳定 · 简单易用 · 面向 AI 创作者与开发者
+
+<br>
+
+<a href="https://lzhimie.top">
+  <img src="https://img.shields.io/badge/立即访问-lzhimie.top-FF4D4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="国内 Token 中转站">
+</a>
+
+<br>
+<br>
+
+### 🔗 官网地址：<a href="https://lzhimie.top">https://lzhimie.top</a>
+
+</div>
+
 
 ## 下载
 
