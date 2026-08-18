@@ -21,6 +21,8 @@
 
 ## 下载
 
+> ⚠️ **仅支持 Windows 系统**（Windows 10 / 11，64 位）。macOS 与 Linux 暂不支持。
+
 - **[下载 ZIP 便携版](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases/latest/download/DeepSeek-Harness-Portable-0.1.1.zip)**：解压后运行 `启动.bat`。
 - **[下载 EXE 安装版](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases/latest/download/DeepSeek-Harness-Setup-0.1.1.exe)**：免管理员安装，安装后通过桌面快捷方式启动。
 - [查看所有版本与更新日志](https://github.com/Lzhimie/DeepSeek-Harness-NB/releases)
